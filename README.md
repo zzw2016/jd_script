@@ -75,7 +75,7 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 * 防走丢:https://t.me/jdscrip
 
 
-维护收集不易，各位看官高兴可打赏下~
+维护收集不易，各位看官高兴可打赏下~  下面是faker的打赏地址，比价他收集脚本也不容易，所以留着打赏，你们可以去打赏他
 
 ![image](https://user-images.githubusercontent.com/15306294/125604796-955a078a-0e28-4900-9a1c-6fabdc8feb7d.png)
 
