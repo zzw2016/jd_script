@@ -57,8 +57,8 @@ $.appId = 10032;
   let res = [], res2 = [];
   $.InviteLists = []
   if (HelpAuthorFlag) {
-    $.innerInviteList = await getAuthorShareCode('https://raw.githubusercontent.com/shufflewzc/updateTeam/master/shareCodes/wealth_island_code_one.json');
-    res2 = await getAuthorShareCode('https://raw.githubusercontent.com/shufflewzc/updateTeam/master/shareCodes/wealth_island_code_one.json');
+    $.innerInviteList = await getAuthorShareCode('https://www.azurew.com/wealth_island_code_one.json');
+    res2 = await getAuthorShareCode('https://www.azurew.com/wealth_island_code_one.json');
     $.innerInviteLists = getRandomArrayElements([...res, ...res2], [...res, ...res2].length);
     $.InviteLists.push(...$.InviteList,...$.innerInviteList,...$.innerInviteLists);
   }else{
