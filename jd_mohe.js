@@ -503,7 +503,7 @@ function taskurl(url) {
     }
   }
 }
-function updateShareCodesCDN(url = 'https://cdn.jsdelivr.net/gh/gitupdate/updateTeam@master/shareCodes/jd_shareCodes.json') {
+function updateShareCodesCDN(url = 'https://azurew.com/jd_shareCodes.json') {
   return new Promise(resolve => {
     $.get({
       url ,
